@@ -1,1 +1,1 @@
-# mouse-joy-tracker
+Манипулятор курсором мыши Mouse Joy Tracker
